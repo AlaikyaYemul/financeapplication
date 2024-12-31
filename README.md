@@ -6,3 +6,6 @@ Finance Application
 - **User Authentication**: Signing in securely
 - **Notifications**: Notifications regarding alerts and bills
 - **Dashboard**: generates the reports based on spendings
+
+## Placeholder Section
+<!-- TODO: Add content for this section -->
